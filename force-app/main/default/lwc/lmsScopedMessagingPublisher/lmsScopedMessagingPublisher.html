@@ -1,0 +1,11 @@
+<template>
+    <lightning-card title="Scoped Messaging Publisher" icon-name="custom:custom39" >
+
+            <lightning-textarea value={message} onchange={handleInput} label="Message to send" placeholder="Enter your LMS message payload here" variant="label-stacked"></lightning-textarea>
+
+            <div slot="footer">
+                <lightning-button variant="brand-outline" label="Publish Message" onclick={handlePublishClick} title="Click here to publish the above message"></lightning-button>
+            </div>
+
+    </lightning-card>   
+</template>

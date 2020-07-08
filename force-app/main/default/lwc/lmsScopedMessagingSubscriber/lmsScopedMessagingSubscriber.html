@@ -1,0 +1,12 @@
+<template>
+    <lightning-card title="Scoped Messaging Subscriber" icon-name="custom:custom39" >            
+
+        <p>
+            <lightning-formatted-text value={currentSubscriptionScope}></lightning-formatted-text>
+        </p>
+
+        <lightning-textarea value={message} onchange={handleInput} label="Message received" placeholder="Waiting for message..." variant="label-stacked"></lightning-textarea>
+
+    </lightning-card>   
+
+</template>
