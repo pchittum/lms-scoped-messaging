@@ -1,0 +1,204 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Anders",
+            "LastName": "Culpepper",
+            "Title": "Galactic Viceroy of Research Excellence",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "FirstName": "Grecia",
+            "LastName": "Dankworth",
+            "Title": "Retail Jedi",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "FirstName": "Darby",
+            "LastName": "MacQuoid",
+            "Title": "Direct Mail Demi-God",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "FirstName": "Naya",
+            "LastName": "Tumbler",
+            "Title": "Second Tier Totalist",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "FirstName": "Camilo",
+            "LastName": "Slora",
+            "Title": "Warden of the Swans",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef6"
+            },
+            "FirstName": "Franco",
+            "LastName": "MacCaa",
+            "Title": "Hyphenated-Specialist",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef7"
+            },
+            "FirstName": "Teegan",
+            "LastName": "Pussett",
+            "Title": "Digital Prophet",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef8"
+            },
+            "FirstName": "Ulani",
+            "LastName": "Miracle",
+            "Title": "Chief Biscuit Dunker",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef9"
+            },
+            "FirstName": "Gibson",
+            "LastName": "Villin",
+            "Title": "Conversation Architect",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef10"
+            },
+            "FirstName": "Makena",
+            "LastName": "Gastrell",
+            "Title": "Head of Potatoes",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef11"
+            },
+            "FirstName": "Bronywyn",
+            "LastName": "Ajax",
+            "Title": "Actions and Repercussions Advisor",
+            "AccountId": "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef12"
+            },
+            "FirstName": "Yehuda",
+            "LastName": "Edevane",
+            "Title": "Digital Dynamo",
+            "AccountId": "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef13"
+            },
+            "FirstName": "Keon",
+            "LastName": "Berrycloth",
+            "Title": "Happiness Advocate",
+            "AccountId": "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef14"
+            },
+            "FirstName": "Tyrell",
+            "LastName": "Loughty",
+            "Title": "Principal Handshaker",
+            "AccountId": "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef15"
+            },
+            "FirstName": "Eoin",
+            "LastName": "Fernsby",
+            "Title": "Head of Digital",
+            "AccountId": "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef16"
+            },
+            "FirstName": "Houston",
+            "LastName": "Bythesea",
+            "Title": "Director of Making People Happy and Content",
+            "AccountId": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef17"
+            },
+            "FirstName": "Reina",
+            "LastName": "Bread",
+            "Title": "Chief Inspiration Officer",
+            "AccountId": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef18"
+            },
+            "FirstName": "Emer",
+            "LastName": "Birdwhistle",
+            "Title": "Communications Ambassador",
+            "AccountId": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef19"
+            },
+            "FirstName": "Gaige",
+            "LastName": "Relish",
+            "Title": "Wizard of Lightbulb Moments",
+            "AccountId": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef20"
+            },
+            "FirstName": "Arantxa",
+            "LastName": "Sallow",
+            "Title": "Chief Everything Officer",
+            "AccountId": "@AccountRef4"
+        }
+    ]
+}
