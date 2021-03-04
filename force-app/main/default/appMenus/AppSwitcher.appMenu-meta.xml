@@ -65,10 +65,6 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__Commerce</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>LMS_Scoped_Messaging</name>
         <type>CustomApplication</type>
     </appMenuItems>
